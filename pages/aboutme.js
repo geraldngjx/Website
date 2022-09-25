@@ -53,7 +53,7 @@ function AboutMe() {
             <Link href="https://github.com/geraldngjx">Github</Link>
           </li>
           <li>
-            <Link href="www.instagram.com/gerald.ngjx">Instagram</Link>
+            <Link href="https://www.instagram.com/gerald.ngjx">Instagram</Link>
           </li>
         </ul>
       </Card>
