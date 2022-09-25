@@ -77,7 +77,11 @@ function GroupCard() {
           <div className="card">
             <img src="..." className="card-img-top" alt="..." />
             <div className="card-body">
-              <h5 className="card-title">Personal Website</h5>
+            <h5 className="card-title">
+                <Link href="https://github.com/geraldngjx/Website">
+                  Personal Website
+                </Link>
+              </h5>
               <p className="card-text">
                 Personal Website built using NextJS.
               </p>
