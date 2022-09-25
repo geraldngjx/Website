@@ -75,15 +75,19 @@ function GroupCard() {
         </div>
         <div className="col">
           <div className="card">
-            <img src="..." className="card-img-top" alt="..." />
+            <img
+              src="https://res.cloudinary.com/dkogjegm5/image/upload/v1664129220/gerald/Personal_Website_Picture_rr11i3.png"
+              className="card-img-top"
+              alt="..."
+            />
             <div className="card-body">
-            <h5 className="card-title">
+              <h5 className="card-title">
                 <Link href="https://github.com/geraldngjx/Website">
                   Personal Website
                 </Link>
               </h5>
               <p className="card-text">
-                Personal Website built using NextJS.
+              Personal Website built using NextJS.
               </p>
             </div>
           </div>

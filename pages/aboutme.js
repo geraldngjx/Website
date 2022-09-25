@@ -44,15 +44,17 @@ function AboutMe() {
       <Card>
         <h2>Connect With Me!</h2>
         <ul>
-          <Link href="https://www.linkedin.com/in/gerald-ng-458059221/">
-            LinkedIn
-          </Link>
-          <Link href="https://github.com/geraldngjx">
-            Github
-          </Link>
-          <Link href="www.instagram.com/gerald.ngjx">
-            Instagram
-          </Link>
+          <li>
+            <Link href="https://www.linkedin.com/in/gerald-ng-458059221/">
+              LinkedIn
+            </Link>
+          </li>
+          <li>
+            <Link href="https://github.com/geraldngjx">Github</Link>
+          </li>
+          <li>
+            <Link href="www.instagram.com/gerald.ngjx">Instagram</Link>
+          </li>
         </ul>
       </Card>
       <Card>
