@@ -20,9 +20,12 @@ function GroupCard() {
                 </Link>
               </h5>
               <p className="card-text">
-                This is a longer card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                ForACause helps to make volunteering more accessible as it
+                displays details of various volunteering opportunities all over
+                Singapore. The centralised interactive map is able to give an
+                overview of the various opportunities to give back to the
+                community. With a few clicks, users are able to quickly find out
+                what different opportunities entail.
               </p>
             </div>
           </div>
@@ -41,9 +44,10 @@ function GroupCard() {
                 </Link>
               </h5>
               <p className="card-text">
-                This is a longer card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                A shopping eCart project, inspired by a Udemy Code-Along
+                Project, created to practice some advanced functionalities of
+                ReactJS. The theme is neon pink and was customised using some
+                ReactJS styling and css modules.
               </p>
             </div>
           </div>
@@ -62,8 +66,9 @@ function GroupCard() {
                 </Link>
               </h5>
               <p className="card-text">
-                This is a longer card with supporting text below as a natural
-                lead-in to additional content.
+                A simple project (inspired from a Udemy code-along project) for
+                me to practice using components, events and hooks in ReactJS.
+                Customised with a neon blue theme to practice CSS.
               </p>
             </div>
           </div>
@@ -72,11 +77,9 @@ function GroupCard() {
           <div className="card">
             <img src="..." className="card-img-top" alt="..." />
             <div className="card-body">
-              <h5 className="card-title">Card Title</h5>
+              <h5 className="card-title">Personal Website</h5>
               <p className="card-text">
-                This is a longer card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                Personal Website built using NextJS.
               </p>
             </div>
           </div>

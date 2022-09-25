@@ -1,4 +1,5 @@
 import { Fragment } from "react";
+import Link from "next/link";
 
 import Card from "../components/accessories/Card";
 
@@ -41,11 +42,25 @@ function AboutMe() {
       </Card>
       <br/> */}
       <Card>
+        <h2>Connect With Me!</h2>
+        <ul>
+          <Link href="https://www.linkedin.com/in/gerald-ng-458059221/">
+            LinkedIn
+          </Link>
+          <Link href="https://github.com/geraldngjx">
+            Github
+          </Link>
+          <Link href="www.instagram.com/gerald.ngjx">
+            Instagram
+          </Link>
+        </ul>
+      </Card>
+      <Card>
         <h2>Projects</h2>
         <ul>
-            <li>ForACause (LifeHack 2022 Hackathon)</li>
-            <li>ReactPanda Shopping Cart</li>
-            <li>Expense Logger React</li>
+          <li>ForACause (LifeHack 2022 Hackathon)</li>
+          <li>ReactPanda Shopping Cart</li>
+          <li>Expense Logger React</li>
         </ul>
       </Card>
     </Fragment>
