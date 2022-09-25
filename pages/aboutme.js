@@ -29,7 +29,7 @@ function AboutMe() {
         </ul>
       </Card>
       <br />
-      <Card>
+      {/* <Card>
         <h2>Achievements</h2>
         <ul>
           <li>Awarded the NUS Global Merit Scholarship for Computer Science</li>
@@ -39,7 +39,7 @@ function AboutMe() {
           </li>
         </ul>
       </Card>
-      <br/>
+      <br/> */}
       <Card>
         <h2>Projects</h2>
         <ul>
